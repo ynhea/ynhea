@@ -23,18 +23,18 @@ What fulfills me the most in this field is the insight I gain along the way. Whe
 | Programming Languages | <img src="https://img.shields.io/badge/Python-F5E2D4?style=fot-the-badge&logo=Python&logoColor=3776AB">  <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat">  <img src="https://img.shields.io/badge/C-F5E2D4?style=fot-the-badge&logo=C&logoColor=A8B9CC">  <img src="https://img.shields.io/badge/Java-F5E2D4?style=flat-square&logo=Java&logoColor=3766AB"/> <img src="https://img.shields.io/badge/JavaScript-F5E2D4?style=fot-the-badge&logo=javascript&logoColor=F7DF1E">                          | Beginner |
 | Tools & Platforms   | Git, GitHub, Markdown, <img src="https://img.shields.io/badge/Bootstrap-F5E2D4?style=fot-the-badge&logo=bootstrap&logoColor=7952B3">                           | Beginner |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynhea&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynhea&layout=compact&theme=dark)
 
 <hr style="height: 4px; background-color: black; border: none;" />
 
 ### 🔥 Projects
 
-| Project       | Description                                                                 | Role                      | Duration            |
-|---------------|-----------------------------------------------------------------------------|---------------------------|---------------------|
-| **Ceta**  | Timetable & Meal Notifier, Anonymous Community, and Auto-Grading Service | Planning & Dev | Mar 2024 – Jun 2024 |
-| **Expotential PS**  | A platform designed to boost learning motivation by gamifying the experience of problem solving | BackEnd | May 2025 – Present |
+| Project       | Tech            | Description                                                                 | Role                      | Duration            |
+|---------------|---------------|-----------------------------------------------------------------------------|---------------------------|---------------------|
+| [**Ceta**](https://github.com/ynhea/CETA)  | Java | Timetable & Meal Notifier, Anonymous Community, and Auto-Grading Service | Planning & Dev | Mar 2024 – Jun 2024 |
+| **Expotential PS**  | Python, JavaScript,... | A platform designed to boost learning motivation by gamifying the experience of problem solving | BackEnd | May 2025 – Present |
 
-<hr style="height: 4px; background-color: black; border: none;" />
+<hr style="height: 2px; background-color: #444; border: none;" />
 
 ### 🔥 Activity
 
@@ -49,7 +49,7 @@ What fulfills me the most in this field is the insight I gain along the way. Whe
 - Supported overall club event operations.
 - Studied algorithms and solved problems through seminars.
 
-**Team Intern** (May 2025 ~ Present)
+**Team Intern** (May 2025 ~ Present) <br>
 *in Inquirist*
 - Assisted in project planning.
 - Assisted in project R&D.
@@ -62,6 +62,14 @@ What fulfills me the most in this field is the insight I gain along the way. Whe
 - Baekjoon Online Judge: https://www.acmicpc.net/user/aha
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aha)](https://solved.ac/aha/)
+
+<hr style="height: 4px; background-color: black; border: none;" />
+
+### 🔥 Contest & Award
+
+<hr style="height: 4px; background-color: black; border: none;" />
+
+### 🔥 Certificate & License
 
 <hr style="height: 4px; background-color: black; border: none;" />
 
