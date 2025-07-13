@@ -34,7 +34,6 @@ Currently, I am exploring web production among various computer fields. I am int
 ### 🔥 Activity
 
 **High School Student** (Mat 2022 ~ Feb 2025)
-- [Essay_Test_Helper](https://github.com/ynhea/Essay_Test_Helper) : Developed project to internalize what I learned through hands-on experience.
 - [CETA](https://github.com/ynhea/CETA) : Planned and built large-scale projects to develop collaboration skills.
 
 **Club Member** (Mar 2025 ~ Present) <br>
@@ -45,7 +44,7 @@ Currently, I am exploring web production among various computer fields. I am int
 
 **Team Intern** (May 2025 ~ Present) <br>
 *in Inquirist*
-- [Expotential PS](https://github.com/inquirist-development/auto-prd) : Assisted in BackEnd operations.
+- [Expotential PS](https://github.com/inquirist-development/auto-prd) : Assisted in BackEnd & FrondEnd operations.
 
 <hr style="height: 4px; background-color: black; border: none;" />
 
