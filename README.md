@@ -2,13 +2,13 @@
    😎 Hello, I'm a problem adventurer, aha! 😎
 </h1>
 <br>
-I began my journey into the field of programming in 2022 as a beginner, and I’ve been learning ever since.<br><br>
+When we deal with programs, we take a lot of functions for granted. However, while studying coding, I found each and every one of these technologies to be more complex than I thought. I could feel my own growth by realizing the hidden processes one by one. Therefore, I like to explore abstract and theoretical principles.<br><br>
 
-Whenever I create a program, I feel a mix of excitement and nervous anticipation, and I genuinely enjoy it. I imagine future users, wonder if there might be any bugs, and think about what features could make the experience more engaging. This process of turning imagination into reality has made coding an incredibly joyful and meaningful activity for me. It's what initially drew me to development, and it's a feeling I want to continue experiencing.<br>
+What fulfills me the most in this field is the insight I gain along the way. Whether it's through solving algorithmic problems or learning new technologies, I often discover solutions that I couldn’t have imagined before. Each time, I realize that my thinking has grown beyond who I was yesterday. For me, studying new technologies is like an energy bar — it invigorates my life and allows me to find meaning.
 
-What fulfills me the most in this field is the insight I gain along the way. Whether it's through solving algorithmic problems or learning new technologies, I often discover solutions that I couldn’t have imagined before. Each time, I realize that my thinking has grown beyond who I was yesterday. For me, studying development is like an energy bar — it invigorates my life and allows me to find meaning.
+I like to work with people to achieve one goal. Although there will be many difficulties, you can feel fellowship by solving them head-to-head. Especially in the case of coding, since each other's styles are different, sometimes we may encounter unexpected creative ideas.
 
-Currently, I am experiencing various computer fields and exploring myself what I am interested in. I am working as a member of the SWAG club and Inquiry company because I am interested in problems and new technologies.
+Currently, I am exploring web production among various computer fields. I am interested in collaboration and new technologies, so I am working as a member of SWAG Club and Inquirist Company.
 <br>
 
 <hr style="height: 4px; background-color: black; border: none;" />
@@ -27,15 +27,15 @@ Currently, I am experiencing various computer fields and exploring myself what I
 | Project       | Tech            | Description                                                                 | Role                      | Duration            |
 |---------------|---------------|-----------------------------------------------------------------------------|---------------------------|---------------------|
 | [**Ceta**](https://github.com/ynhea/CETA)  | Java | Timetable & Meal Notifier, Anonymous Community, and Auto-Grading Service | Planning & Dev | Mar 2024 – Jun 2024 |
-| **Expotential PS**  | Python, JavaScript,... | A platform designed to boost learning motivation by gamifying the experience of problem solving | BackEnd | May 2025 – Present |
+| [**Expotential PS**](https://github.com/jjaanngg/Expotential-PS)  | Python, JavaScript,... | A platform designed to boost learning motivation by gamifying the experience of problem solving | BackEnd | May 2025 – Present |
 
 <hr style="height: 2px; background-color: #444; border: none;" />
 
 ### 🔥 Activity
 
 **High School Student** (Mat 2022 ~ Feb 2025)
-- [Developed project to internalize what I learned through hands-on experience.](https://github.com/ynhea/Essay_Test_Helper)
-- [Planned and built large-scale projects to develop collaboration skills.](https://github.com/ynhea/CETA)
+- [Essay_Test_Helper](https://github.com/ynhea/Essay_Test_Helper) : Developed project to internalize what I learned through hands-on experience.
+- [CETA](https://github.com/ynhea/CETA) : Planned and built large-scale projects to develop collaboration skills.
 
 **Club Member** (Mar 2025 ~ Present) <br>
 *in SoftWare & AlGorithm Club (SWAG)*
@@ -45,7 +45,7 @@ Currently, I am experiencing various computer fields and exploring myself what I
 
 **Team Intern** (May 2025 ~ Present) <br>
 *in Inquirist*
-- [Assisted in project operations.](https://github.com/inquirist-development/auto-prd)
+- [Expotential PS](https://github.com/inquirist-development/auto-prd) : Assisted in BackEnd operations.
 
 <hr style="height: 4px; background-color: black; border: none;" />
 
