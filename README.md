@@ -1,15 +1,13 @@
 <h1 align="center" >
    😎 Hello, I'm a problem adventurer, aha! 😎
 </h1>
-<br>
-When we deal with programs, we take a lot of functions for granted. However, while studying coding, I found each and every one of these technologies to be more complex than I thought. I could feel my own growth by realizing the hidden processes one by one. Therefore, I like to explore abstract and theoretical principles.<br><br>
+When working with programs, we often take many functions for granted. However, as I studied coding, I came to realize that each of these technologies is far more intricate than I initially thought. Uncovering the hidden processes behind them has helped me recognize my own growth, and it’s this process of discovery that draws me to abstract and theoretical principles.<br><br>
 
-What fulfills me the most in this field is the insight I gain along the way. Whether it's through solving algorithmic problems or learning new technologies, I often discover solutions that I couldn’t have imagined before. Each time, I realize that my thinking has grown beyond who I was yesterday. For me, studying new technologies is like an energy bar — it invigorates my life and allows me to find meaning.
+What fulfills me most in this field is the insight I gain along the way. Whether I’m solving algorithmic problems or learning new technologies, I often come across solutions I never would have imagined before. Each time, I can feel my thinking evolve beyond what it was yesterday. For me, studying new technologies is like an energy bar, and it revitalizes me and gives my work meaning.
 
-I like to work with people to achieve one goal. Although there will be many difficulties, you can feel fellowship by solving them head-to-head. Especially in the case of coding, since each other's styles are different, sometimes we may encounter unexpected creative ideas.
+I also enjoy working with others toward a common goal. Although there are often challenges, facing them together builds a strong sense of camaraderie. Especially in coding, where everyone brings their own style and perspective, collaboration can lead to unexpected and creative ideas.
 
-Currently, I am exploring web production among various computer fields. I am interested in collaboration and new technologies, so I am working as a member of SWAG Club and Inquirist Company.
-<br>
+Currently, I’m exploring web development among the various fields in computer science. With a strong interest in collaboration and emerging technologies, I’m actively involved in the SWAG Club and Inquirist Company.
 
 <hr style="height: 4px; background-color: black; border: none;" />
 
@@ -33,12 +31,8 @@ Currently, I am exploring web production among various computer fields. I am int
 
 ### 🔥 Activity
 
-**High School Student** (Mat 2022 ~ Feb 2025)
-- [CETA](https://github.com/ynhea/CETA) : Planned and built large-scale projects to develop collaboration skills.
-
 **Club Member** (Mar 2025 ~ Present) <br>
 *in SoftWare & AlGorithm Club (SWAG)*
-- Supported Major Fair operations.
 - Studied algorithms and solved problems through seminars.
   (Mathematics - Sorting - List - Stack/Queue/Deque - Tree - Search -  Binary Search - Priority Queue/Heap)
 
