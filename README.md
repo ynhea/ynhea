@@ -63,7 +63,7 @@ Currently, I’m exploring web development among the various fields in computer 
 -->
 
 ### 🔥 My Page
-- Instagram : [https://aha-log.tistory.com/](https://www.instagram.com/taljugirl?igsh=MXR3MnZ4NDk4eTYxMQ==)
+- Instagram : [https://www.instagram.com/taljugirl?igsh=MXR3MnZ4NDk4eTYxMQ==]
 
 <hr style="height: 4px; background-color: black; border: none;" />
 
